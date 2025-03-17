@@ -1,0 +1,1 @@
+int sum_of_elements(int*, int);
