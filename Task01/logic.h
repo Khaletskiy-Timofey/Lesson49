@@ -1,0 +1,1 @@
+double calculate_arithmetic_mean_of_nonzero_elements(int**, int, int);
