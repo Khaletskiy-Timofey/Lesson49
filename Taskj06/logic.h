@@ -1,0 +1,1 @@
+int find_min_local_max(int**, int, int);
