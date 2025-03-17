@@ -1,0 +1,1 @@
+void find_last_local_minimum(int**, int, int, int&, int&);
